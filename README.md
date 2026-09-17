@@ -105,3 +105,9 @@ Educational software only — **not financial advice**. Crypto trading
 involves substantial risk of loss. Never trade with money you can't
 afford to lose, and never run an automated strategy with real funds
 without understanding every line of it.
+
+---
+
+**Author:** Moein Shahidi — [@moeinsh](https://github.com/moeinsh)
+
+© 2026 Moein Shahidi. Released under the MIT License.
